@@ -1,2 +1,3 @@
 # TypesOfEvents
 This project was created to develop my skills in CS. My project goal was to create an event planner app that would help the user plan for indoors and outdoors events. This programs main goal is too look at weather data and predict the weather for future events. Future iterations will a pattern matching algorithm to see similar weather in the past and use that to find trends in weather. There is a long way to go, but I will continue to work on this as a portfolio piece. 
+![UML class TypesOfEvents](https://user-images.githubusercontent.com/113407032/206893594-3046fbd2-dc42-41ec-8749-7f5a0ba41aff.jpeg)
